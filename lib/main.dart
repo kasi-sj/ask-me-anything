@@ -18,7 +18,7 @@ class _MyAppState extends State<MyApp> {
   change() {
     setState(
       () {
-        no = Random().nextInt(6) + 1;
+        no = Random().nextInt(5) + 1;
       },
     );
   }
