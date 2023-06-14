@@ -1,0 +1,4 @@
+sns.sns.scatterplot(x="tip",y="df",data=datas,hue="f",size="si",palette="YlGnBu")
+sns.histplot(tip[""],kde=True,ylable='count')
+sns.displot '' ''
+sns.barplot(x="",y="",data=dat,palette="YeGnBu")
